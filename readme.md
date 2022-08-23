@@ -4,7 +4,7 @@ This is an assignment given in **"JavaScript Full Stack Web Developer Bootcamp"*
 <br>
 <br>
 
-## 📌 **Live Site URL:** <a href="https://project3-ineuron.netlify.app/">**Visit Now** 🚀</a>
+## 📌 **Live Site URL:** <a href="https://paytm-shadow.netlify.app/">**Visit Now** 🚀</a>
 
 <br>
 
